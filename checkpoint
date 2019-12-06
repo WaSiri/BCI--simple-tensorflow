@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/CSU/program/Python/Practice/Brain_cognition/Brain_cognition/model.ckpt"
+all_model_checkpoint_paths: "D:/CSU/program/Python/Practice/Brain_cognition/Brain_cognition/model.ckpt"
